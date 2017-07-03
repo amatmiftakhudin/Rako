@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "878666605356",
+    "firebase_url": "https://rako-9aa87.firebaseio.com",
+    "project_id": "rako-9aa87",
+    "storage_bucket": "rako-9aa87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878666605356:android:9e275ef72f9160fb",
+        "android_client_info": {
+          "package_name": "com.miftakhudin.rako"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878666605356-lli8vorop967lg68e7pgndgcvahr0oa6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miftakhudin.rako",
+            "certificate_hash": "8d3246d8f14ab70599446cd6960661cd7e91aa0a"
+          }
+        },
+        {
+          "client_id": "878666605356-ti651u3khu07vl05a25hf0f8op4etbol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOSakelCK8H-ebSYSh8iqC_hBrqO-7PyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878666605356-ti651u3khu07vl05a25hf0f8op4etbol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

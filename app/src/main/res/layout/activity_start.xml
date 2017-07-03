@@ -14,5 +14,24 @@
         android:layout_centerVertical="true"
         android:allowUndo="true"
         android:text="Welcome to Rako Chat App"
-        android:textSize="24dp" />
+        android:textSize="24dp"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:text="@string/have_an_account"
+        android:id="@+id/start_sign_in_btn"
+        android:layout_marginTop="33dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/start_sign_in_btn"
+        android:layout_centerHorizontal="true"
+        android:text="@string/need_a_new_account"
+        android:id="@+id/start_reg_btn"
+        android:layout_marginTop="33dp" />
 </RelativeLayout>
